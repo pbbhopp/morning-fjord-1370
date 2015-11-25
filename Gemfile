@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 ruby '2.2.3'
 
+# add by pbb according tutorial
+gem 'cowsay'
+# end of add
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
 # Use postgresql as the database for Active Record
@@ -37,4 +41,3 @@ gem 'puma'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
